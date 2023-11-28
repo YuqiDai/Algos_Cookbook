@@ -36,6 +36,6 @@ public:
 ```
 
 ### Evaluation
-![img](./binary_search.png)   
+![img](./1_binary_search.png)   
 
 Remark: This evaluation depends on the population using the server you commiting your code. But you can refer to this as one of the standards of good algorithms.
