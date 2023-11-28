@@ -1,4 +1,4 @@
-# Binary Search
+# ***Binary Search***
 ## Puzzle Description
 Given a  ***n*** sorted (ascending) integer array of elements  ***nums*** and a target value  ***target***  , write a function that  ***nums*** returns ***target*** the index if the target value exists, otherwise returns ***-1***.   
 Refer to [Leetcode BinarySearch](https://leetcode.cn/problems/binary-search/).
