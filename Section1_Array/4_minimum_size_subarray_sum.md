@@ -1,6 +1,7 @@
 # Minimum Size Subarray Sum
 ## Puzzle Description
-Given an array of positive integers ***nums*** and a positive integer ***target***, return the minimal length of a subarray whose sum is greater than or equal to ***target***. If there is no such subarray, return ***0*** instead.
+Given an array of positive integers ***nums*** and a positive integer ***target***, return the minimal length of a subarray whose sum is greater than or equal to ***target***. If there is no such subarray, return ***0*** instead.    
+Refer to [Minimum Size Subarray](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ## Methodology
 Using two pointers method (There is specifically sliding window method) to traverse the array. Two pointers method could cut redundent branches which would enhance the efficiency of this algorithm obviously.   
