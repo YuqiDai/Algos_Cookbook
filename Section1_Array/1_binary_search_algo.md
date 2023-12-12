@@ -1,7 +1,7 @@
 # ***Binary Search***
 ### Puzzle Description
 Given a  ***n*** sorted (ascending) integer array of elements  ***nums*** and a target value  ***target***  , write a function that  ***nums*** returns ***target*** the index if the target value exists, otherwise returns ***-1***.   
-Refer to [Leetcode BinarySearch](https://leetcode.cn/problems/binary-search/).
+Refer to [Binary Search](https://leetcode.cn/problems/binary-search/).
 
 ### Methodology
 Since we need the index of the target existing in the array, Use recursion function to solve this puzzle will be complicated. So there we use a simple ***while*** loop.      
