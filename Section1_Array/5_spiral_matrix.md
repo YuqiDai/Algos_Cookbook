@@ -1,6 +1,7 @@
 # Spiral Matrix
 ## Puzzle Description
-Given a positive integer ***n***, generate an ***n x n*** ***matrix*** filled with elements from ***1*** to $n^2$ in spiral order.
+Given a positive integer ***n***, generate an ***n x n*** ***matrix*** filled with elements from ***1*** to $n^2$ in spiral order.   
+Refer to [Spiral Matrix](https://leetcode.com/problems/spiral-matrix-ii/description/)
 ## Methodology
 The most difficult part of this puzzle is boundary checking. We have two main loops which are nested. The boundary of the outer loop is ***value<=$n*n$***, the boundary of the inner loop will be shown below.
 
