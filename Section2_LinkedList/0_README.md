@@ -1,6 +1,6 @@
 # Section2_LinkedList
 
-1. [1_Remove Linked List Elements](./1_Remove Linked List Elements.md)
+1. [1_Remove Linked List Elements]("./1_Remove Linked List Elements.md")
 
 2. [2_Design Linked List](2_Design Linked List.md)
 
