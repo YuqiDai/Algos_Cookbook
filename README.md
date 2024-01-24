@@ -1,5 +1,5 @@
 # Algos_Notebook
-:exclamation::exclamation:A notebook :exclamation::exclamation:for algorithms practicing, the content covers 15 sections that are shown below:
+:exclamation::fire:A notebook :fire::exclamation:for algorithms practicing, the content covers 15 sections that are shown below:
 1. Basic Sorting Algorithms and Search Algorithms
 2. Array
 3. Linked List
