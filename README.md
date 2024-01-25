@@ -3,7 +3,7 @@ A :fire:magic ***notebook***:fire:for algorithms practicing, the content covers 
 1. Basic Sorting Algorithms and Search Algorithms 
 2. Array
 ```diff
-: 5 puzzles
++ 5 puzzles+
 ```
 3. Linked List 
 ```diff
