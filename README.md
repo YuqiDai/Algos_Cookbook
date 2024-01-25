@@ -1,9 +1,9 @@
 # Algos_Notebook
 A :fire:magic ***notebook***:fire:for algorithms practicing, the content covers 15 sections that are shown below:
-1. Basic Sorting Algorithms and Search Algorithms          **10** puzzles
-2. Array                                                    **5** puzzles
-3. Linked List                                              **7** puzzles
-4. Hash Table                                               **8** puzzles
+1. Basic Sorting Algorithms and Search Algorithms          ***10 puzzles***
+2. Array                                                    ***5 puzzles***
+3. Linked List                                              ***7 puzzles***
+4. Hash Table                                               ***8 puzzles***
 5. String
 6. Two Pointers
 7. Stack and Queue
