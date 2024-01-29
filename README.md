@@ -14,6 +14,9 @@ A :fire:magic ***notebook***:fire:for algorithms practicing, the content covers 
 + 8 puzzles
 ```
 5. **String**
+```diff
++ 7 puzzles
+```
 6. **Two Pointers**
 7. **Stack and Queue**
 8. **Binary Tree**
