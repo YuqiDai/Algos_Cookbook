@@ -1,4 +1,4 @@
-# Two Pointers Method
+# Section05_TwoPointers
 ## The necessary conditions to use TPM
 * Monotonicity   
 The direction of traversing is always the same.   
