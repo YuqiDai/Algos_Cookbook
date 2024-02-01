@@ -23,3 +23,10 @@ The direction of traversing is always the same.
 > 综上，双指针法能保证最大体积情况被检索到，是因为它将整个问题的搜索范围划分为 O(n) 个子范围，分别求得了每个子范围的最大值，而全局最大值一定会被局部最大值函数捕获。
 
 Link：[为什么双指针算法可以遍历所有情况呢](https://www.zhihu.com/question/477768158/answer/2951907655)
+
+## Puzzle list
+1. [3 Sum](./3%20Sum.md)
+2. [4 Sum](./4%20Sum.md)
+3. [Array_remove elements](./Array_remove%20elements.md)
+4. [Reverse Linked List](./Reverse%20Linked%20List.md)
+5. [Reverse Words in a String](./Reverse%20Words%20in%20a%20String.md)
