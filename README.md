@@ -1,5 +1,5 @@
-# Algos_Notebook --> Updating :sweat_drops: :sweat_drops: :sweat_drops:
-A :fire:magic ***notebook***:fire:for algorithms practicing, the content covers 15 sections that are shown below:
+# Algos_Cookbook --> Updating :sweat_drops: :sweat_drops: :sweat_drops:
+A :fire:magic ***cookbook***:fire:for algorithms, showing you guys how to cook a beautiful algo:kissing_smiling_eyes:. The content covers 15 sections that are shown below:
 1. **Basic Sorting Algorithms and Search Algorithms**
 2. **Array**
 ```diff
