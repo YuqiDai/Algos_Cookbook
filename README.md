@@ -22,6 +22,9 @@ A :fire:magic ***cookbook***:fire:for algorithms, showing you guys how to cook a
 + 5 puzzles
 ```
 7. **Stack and Queue**
+```diff
++ 7 puzzles 
+```
 8. **Binary Tree**
 9. **Backtracking**
 10. **Greedy Algorithm**
