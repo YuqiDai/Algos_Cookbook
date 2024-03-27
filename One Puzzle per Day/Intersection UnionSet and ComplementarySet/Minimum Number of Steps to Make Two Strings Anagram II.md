@@ -6,7 +6,7 @@ Return *the minimum number of steps* to make `s` and `t` ***anagrams*** of each 
 
 An **anagram** of a string is a string that contains the same characters with a different (or the same) ordering.
 
-## Knowledge Stack
+## Methodology
 1. Use `+` and `-` operation to implement intersect, unite and complement operation in this type of puzzles.
 2. C++ -> map, unordered_map, vector.
 3. Small and sweet mindset.
