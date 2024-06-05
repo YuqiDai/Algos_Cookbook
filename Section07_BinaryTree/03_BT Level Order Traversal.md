@@ -78,9 +78,9 @@ public:
 ## Evaluation
 1. For recursive solution    
 
-![recursive](./3_recursive%20method.png)
+![recursive](./03_recursive%20method.png)
 
 
 2. For iterative solution     
 
-![iterative](./3_iterative%20method.png)
+![iterative](./03_iterative%20method.png)

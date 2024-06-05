@@ -42,5 +42,5 @@ public:
 };
 ```
 ## Evaluation
-![N-ary](./7_N-ary%20Tree%20Level%20Order%20Traversal.png)
+![N-ary](./07_N-ary%20Tree%20Level%20Order%20Traversal.png)
 

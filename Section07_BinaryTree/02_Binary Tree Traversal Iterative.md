@@ -116,4 +116,4 @@ public:
 ```
 
 ## Evaluation
-![Binary Tree Traversal Iterative](./2_Binary%20Tree%20Traversal%20Iterative.png)
+![Binary Tree Traversal Iterative](./02_Binary%20Tree%20Traversal%20Iterative.png)

@@ -45,4 +45,4 @@ public:
 ```
 
 ## Evaluation
-![average](./6_Average%20of%20Levels%20in%20Binary%20Tree.png)
+![average](./06_Average%20of%20Levels%20in%20Binary%20Tree.png)

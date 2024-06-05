@@ -45,7 +45,7 @@ public:
 ***NOTICE: I only give the code of binary tree preorder traversal, the other two are the same as this one.***
 
 ## Evaluation
-![Binary Tree Preorder Traversal](./1_Binary%20Tree%20Traversal%20Recursive.png)
+![Binary Tree Preorder Traversal](./01_Binary%20Tree%20Traversal%20Recursive.png)
 
 
 

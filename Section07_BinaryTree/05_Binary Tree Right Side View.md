@@ -73,8 +73,8 @@ public:
 ## Evaluation
 1. Iterative    
 
-![iterative](./5_iterative.png)
+![iterative](./05_iterative.png)
 
 2. Recursive    
 
-![recursive](./5_recursive.png)
+![recursive](./05_recursive.png)
