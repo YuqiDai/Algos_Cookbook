@@ -1,32 +1,38 @@
 # Algos_Cookbook --> Updating :sweat_drops: :sweat_drops: :sweat_drops:
 A :fire:magic ***cookbook***:fire:for algorithms, showing you guys how to cook a beautiful algo:kissing_smiling_eyes:. The content covers 15 sections that are shown below:
 1. **Basic Sorting Algorithms and Search Algorithms**
-2. **Array**
+
 ```diff
+2. Array
 + 5 puzzles
 ```
-3. **Linked List** 
 ```diff
+3. Linked List 
 + 7 puzzles 
 ```
-4. **Hash Table** 
+
 ```diff
+4. Hash Table
 + 8 puzzles
 ```
-5. **String**
+
 ```diff
+5. String
 + 7 puzzles
 ```
-6. **Two Pointers**
+
 ```diff
+6. Two Pointers
 + 5 puzzles
 ```
-7. **Stack and Queue**
+
 ```diff
+7. Stack and Queue
 + 7 puzzles 
 ```
-8. **Binary Tree**
+
 ```diff
+8. Binary Tree
 + 34 puzzles 
 ```
 9. **Backtracking**
