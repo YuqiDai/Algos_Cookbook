@@ -1,7 +1,7 @@
 # Algos_Cookbook --> Updating... :sweat_drops: :sweat_drops: :sweat_drops:
 A :fire: ***cookbook***:fire:for basic algos, showing you guys how to cook a beautiful algo:kissing_smiling_eyes:. The content covers 15 sections as shown below:
 
-+ **NUMBER OF ALGORITHMS HERE**: **73**     
+### **NUMBER OF ALGORITHMS HERE**: **73**     
 
 ```diff
 1. Basic Sorting Algorithms and Search Algorithms
@@ -80,7 +80,7 @@ A :fire: ***cookbook***:fire:for basic algos, showing you guys how to cook a bea
       
 
       
-+ **ANOUNCEMENT**
+### **ANOUNCEMENT**
 ```
 Nearly all of the puzzles in this repository can be found in [LeetCode](https://leetcode.com/). 
    
