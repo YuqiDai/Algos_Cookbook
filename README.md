@@ -42,13 +42,41 @@ A :fire: ***cookbook***:fire:for basic algos, showing you guys how to cook a bea
 8. Binary Tree
 + 34 puzzles 
 ```
-9. **Backtracking**
-10. **Greedy Algorithm**
-11. **Monoton Stack**
-12. **Graph Theory**
-13. **Number Theory**
-14. **Massive Data Processing**
-15. **Extra Puzzles**
+
+```diff
+9. Backtracking
+
+```
+
+```diff
+10. Greedy Algorithm
+
+```
+
+```diff
+11. Monoton Stack
+
+```
+
+```diff
+12. Graph Theory
+
+```
+
+```diff
+13. Number Theory
+
+```
+
+```diff
+14. Massive Data Processing
+
+```
+
+```diff
+15. Extra Puzzles
+
+```
       
 
       
@@ -56,7 +84,8 @@ A :fire: ***cookbook***:fire:for basic algos, showing you guys how to cook a bea
 ```
 Nearly all of the puzzles in this repository can be found in [LeetCode](https://leetcode.com/). 
    
-The order of sections and algos are referred based on another repository on github [Leetcode Master](https://github.com/youngyangyang04/leetcode-master), with a mixture of my implementation of algos.      
+The order of sections and algos are referred based on another repository on github 
+[Leetcode Master](https://github.com/youngyangyang04/leetcode-master), with a mixture of my implementation of algos.      
  
 Enjoy!
 ```
