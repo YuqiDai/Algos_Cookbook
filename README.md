@@ -1,5 +1,5 @@
 # Algos_Cookbook --> Updating... :sweat_drops: :sweat_drops: :sweat_drops:
-A :fire:magic ***cookbook***:fire:for algorithms, showing you guys how to cook a beautiful algo:kissing_smiling_eyes:. The content covers 15 sections that are shown below:
+A :fire: ***cookbook***:fire:for basic algos, showing you guys how to cook a beautiful algo:kissing_smiling_eyes:. The content covers 15 sections as shown below:
 
 + **NUMBER OF ALGORITHMS HERE**: **73**     
 
@@ -50,6 +50,8 @@ A :fire:magic ***cookbook***:fire:for algorithms, showing you guys how to cook a
 14. **Massive Data Processing**
 15. **Extra Puzzles**
 
-Nearly all of the puzzles in this repository can be found in [LeetCode](https://leetcode.com/). Go handle it! Don't let the time slip away!  
+Nearly all of the puzzles in this repository can be found in [LeetCode](https://leetcode.com/). 
    
-By the way, the author will give his methodology and evaluation for the puzzles :heart_eyes::heart_eyes::heart_eyes:
+The order of sections and algos are referred based on another repository on github [Leetcode Master](https://github.com/youngyangyang04/leetcode-master), with a mixture of my implementation of algos.      
+ 
+**Enjoy!**
