@@ -1,6 +1,13 @@
-# Algos_Cookbook --> Updating :sweat_drops: :sweat_drops: :sweat_drops:
+# Algos_Cookbook --> Updating... :sweat_drops: :sweat_drops: :sweat_drops:
 A :fire:magic ***cookbook***:fire:for algorithms, showing you guys how to cook a beautiful algo:kissing_smiling_eyes:. The content covers 15 sections that are shown below:
-1. **Basic Sorting Algorithms and Search Algorithms**
+
+**NUMBER OF ALGORITHMS HERE**: **73**     
+
+```diff
+1. Basic Sorting Algorithms and Search Algorithms
+Still in progress...
+```
+
 
 ```diff
 2. Array
