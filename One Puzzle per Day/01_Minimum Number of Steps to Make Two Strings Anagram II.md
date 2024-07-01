@@ -43,4 +43,4 @@ public:
 ```
 
 ## Evaluation
-![MNoStMTSAII](./Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram%20II.png)
+![MNoStMTSAII](./01.png)

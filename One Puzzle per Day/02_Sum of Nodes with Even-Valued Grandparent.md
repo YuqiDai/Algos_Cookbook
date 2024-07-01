@@ -47,4 +47,4 @@ public:
 ```
 
 ## Evaluation
-![img](./Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.png)
+![img](./02.png)
